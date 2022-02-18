@@ -1,0 +1,1 @@
+<button onClick="window.location.href='https://www.google.com';">Ir pro google</button>

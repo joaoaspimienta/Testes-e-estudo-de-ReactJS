@@ -1,0 +1,1 @@
+document.write("<h2>h2 gerado no JS</h2>")
